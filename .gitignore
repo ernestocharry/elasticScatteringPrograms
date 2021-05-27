@@ -57,3 +57,9 @@ __pycache__/*
 # Ignore the Professor Functions
 tred2tqli.mod
 legendrelaguerre.mod
+*.f
+*.o
+*.in
+*.for
+*.mod
+CarolinaCode/
