@@ -50,8 +50,8 @@ __pycache__/*
 
 # Hidden some files
 *.pdf
-*.gnu
-*.eps
+.gnu
+.eps
 *.png
 
 # Ignore the Professor Functions
